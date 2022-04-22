@@ -1,0 +1,7 @@
+SURVIVAL ANALYSIS:
+------------------
+https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_survival/BS704_Survival_print.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3227332/
+https://ekja.org/journal/view.php?doi=10.4097/kja.d.18.00067
+https://ekja.org/journal/view.php?number=8532
+https://lifelines.readthedocs.io/en/latest/index.html
